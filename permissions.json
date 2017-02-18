@@ -1,0 +1,7 @@
+{
+ "maintainer": "Andrew Kovalyov <andrew.kovalyoff@gmail.com>",
+ "x11": true,
+ "executable": "/usr/local/bin/mmex" ,
+ "access-working-directory": true,
+ "sound-card": true
+}
