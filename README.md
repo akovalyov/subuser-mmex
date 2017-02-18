@@ -14,15 +14,15 @@ that you won't be able to update currencies rate.
 
 1. Install
 
-```bash
-$ subuser subuser add mmex mmex@https://github.com/akovalyov/subuser-mmex.git
-```
+    ```bash
+    $ subuser subuser add mmex mmex@https://github.com/akovalyov/subuser-mmex.git
+    ```
 
 2. Run
 
-```bash
-$ subuser run mmex
-```
+    ```bash
+    $ subuser run mmex
+    ```
 
 3. Enjoy!
 
