@@ -17,7 +17,8 @@ that you won't be able to update currencies rate.
     ```bash
     $ subuser subuser add mmex mmex@https://github.com/akovalyov/subuser-mmex.git
     ```
-
+    Please, take into account that the app will be built from source on your PC, which means - all deps will be downloaded (about 200 MB of packages + git submodules + app itself) and compiled. You will have some time to drink a couple of cups of coffee and relax.
+    
 2. Run
 
     ```bash
